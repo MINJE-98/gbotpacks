@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gbotpacks/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gbotpacks/static/js/main.aa93f43f.chunk.js",
-    "main.js.map": "/gbotpacks/static/js/main.aa93f43f.chunk.js.map",
+    "main.js": "/gbotpacks/static/js/main.42be4ebb.chunk.js",
+    "main.js.map": "/gbotpacks/static/js/main.42be4ebb.chunk.js.map",
     "runtime-main.js": "/gbotpacks/static/js/runtime-main.0aa768d4.js",
     "runtime-main.js.map": "/gbotpacks/static/js/runtime-main.0aa768d4.js.map",
-    "static/js/2.36e998b8.chunk.js": "/gbotpacks/static/js/2.36e998b8.chunk.js",
-    "static/js/2.36e998b8.chunk.js.map": "/gbotpacks/static/js/2.36e998b8.chunk.js.map",
+    "static/js/2.4bb20399.chunk.js": "/gbotpacks/static/js/2.4bb20399.chunk.js",
+    "static/js/2.4bb20399.chunk.js.map": "/gbotpacks/static/js/2.4bb20399.chunk.js.map",
     "static/js/3.a6cf4e69.chunk.js": "/gbotpacks/static/js/3.a6cf4e69.chunk.js",
     "static/js/3.a6cf4e69.chunk.js.map": "/gbotpacks/static/js/3.a6cf4e69.chunk.js.map",
     "index.html": "/gbotpacks/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/gbotpacks/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.36e998b8.chunk.js.LICENSE.txt": "/gbotpacks/static/js/2.36e998b8.chunk.js.LICENSE.txt",
+    "static/js/2.4bb20399.chunk.js.LICENSE.txt": "/gbotpacks/static/js/2.4bb20399.chunk.js.LICENSE.txt",
     "static/media/common.ca086d64.png": "/gbotpacks/static/media/common.ca086d64.png",
     "static/media/epic.d0dc89e6.png": "/gbotpacks/static/media/epic.d0dc89e6.png",
     "static/media/legendary.8fa7f4ac.png": "/gbotpacks/static/media/legendary.8fa7f4ac.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0aa768d4.js",
-    "static/js/2.36e998b8.chunk.js",
+    "static/js/2.4bb20399.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.aa93f43f.chunk.js"
+    "static/js/main.42be4ebb.chunk.js"
   ]
 }
