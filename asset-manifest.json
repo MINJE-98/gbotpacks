@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gbotpacks/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gbotpacks/static/js/main.2c51542f.chunk.js",
-    "main.js.map": "/gbotpacks/static/js/main.2c51542f.chunk.js.map",
+    "main.js": "/gbotpacks/static/js/main.aa93f43f.chunk.js",
+    "main.js.map": "/gbotpacks/static/js/main.aa93f43f.chunk.js.map",
     "runtime-main.js": "/gbotpacks/static/js/runtime-main.0aa768d4.js",
     "runtime-main.js.map": "/gbotpacks/static/js/runtime-main.0aa768d4.js.map",
     "static/js/2.36e998b8.chunk.js": "/gbotpacks/static/js/2.36e998b8.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.0aa768d4.js",
     "static/js/2.36e998b8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.2c51542f.chunk.js"
+    "static/js/main.aa93f43f.chunk.js"
   ]
 }
